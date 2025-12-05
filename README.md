@@ -27,7 +27,7 @@
 
 [![Blog](https://img.shields.io/badge/Blog-ba8aka.com-blue)](https://ba8aka.com)
 [![Email](https://img.shields.io/badge/Email-qq.com-red)](mailto:ba8aka@qq.com)
-[![GitHub](https://img.shields.io/badge/GitHub-AiT0T-black?logo=github)](https://github.com/AiT0T)
+[![GitHub](https://img.shields.io/badge/github-AiT0T-green?style=flat&logo=github&logoColor=%23181717&label=Github&color=99FF00)](https://github.com/AiT0T)
 
 <!-- 如果你有其它平台，可以按需要添加，例如： -->
 [![Bilibili](https://img.shields.io/badge/build-%E8%B0%81%E5%8F%AB%E4%BF%BA%E6%98%AF%E8%92%8B%E5%AD%90%E8%B0%A6-blue?style=flat&logo=bilibili&logoColor=%2300A1D6&label=bilibili)](https://space.bilibili.com/320316018?spm_id_from=333.1007.0.0)
