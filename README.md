@@ -21,6 +21,12 @@
 
    > 个人博客、我的文章、业余无线电、资料整理等，会慢慢完善。
 
+2. RadioW ·无线电网站
+
+ [![RadioW](https://github-readme-stats-five-henna-72.vercel.app/api/pin/?username=AiT0T&repo=BA8AKA&theme=radical)](https://github.com/AiT0T/RadioW)
+
+   > 这是我第一次学习网页制作的作品，主要是展示一些业余无线电相关的东西，网址是ziqian.my，目前暂时不会再更新了，准备整合进ba8aka.com。
+
 ---
 
 ### Get in touch
