@@ -15,7 +15,7 @@
 
 ### My side projects
 
-1. BA8AKA · 无线电相关项目
+1. BA8AKA · 个人博客项目
 
   [![BA8AKA](https://github-readme-stats.vercel.app/api/pin/?username=AiT0T&repo=BA8AKA&theme=radical)](https://github.com/AiT0T/BA8AKA)
 
