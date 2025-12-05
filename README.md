@@ -7,9 +7,9 @@
 
 ---
 
-![My GitHub stats](github-readme-stats-five-henna-72.vercel.app/api?username=AiT0T&show_icons=true&theme=tokyonight)
+![My GitHub stats](https://github-readme-stats-five-henna-72.vercel.app/api?username=AiT0T&show_icons=true&theme=tokyonight)
 
-![Top Langs](github-readme-stats-five-henna-72.vercel.app/api/top-langs/?username=AiT0T&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-five-henna-72.vercel.app/api/top-langs/?username=AiT0T&layout=compact&theme=tokyonight)
 
 ---
 
@@ -17,7 +17,7 @@
 
 1. BA8AKA · 个人博客项目
 
-  [![BA8AKA](github-readme-stats-five-henna-72.vercel.app/api/pin/?username=AiT0T&repo=BA8AKA&theme=radical)](https://github.com/AiT0T/BA8AKA)
+ [![BA8AKA](https://github-readme-stats-five-henna-72.vercel.app/api/pin/?username=AiT0T&repo=BA8AKA&theme=radical)](https://github.com/AiT0T/BA8AKA)
 
    > 个人博客、我的文章、业余无线电、资料整理等，会慢慢完善。
 
