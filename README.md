@@ -26,7 +26,7 @@
 ### Get in touch
 
 [![Blog](https://img.shields.io/badge/Blog-ba8aka.com-blue)](https://ba8aka.com)
-[![Email](https://img.shields.io/badge/Email-qq.com-red)](mailto:ba8aka@qq.com)
+[![Email](https://img.shields.io/badge/Email-ba8aka%40qq.com-orange?style=flat&logo=maildotru&logoColor=%23FFFFFF&label=Email&color=FF9900)](mailto:ba8aka@qq.com)
 [![GitHub](https://img.shields.io/badge/github-AiT0T-green?style=flat&logo=github&logoColor=%23181717&label=Github&color=99FF00)](https://github.com/AiT0T)
 
 <!-- 如果你有其它平台，可以按需要添加，例如： -->
