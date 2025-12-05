@@ -19,7 +19,7 @@
 
  [![BA8AKA](https://github-readme-stats-five-henna-72.vercel.app/api/pin/?username=AiT0T&repo=BA8AKA&theme=radical)](https://github.com/AiT0T/BA8AKA)
 
-   > 个人博客、我的文章、业余无线电、资料整理等，会慢慢完善。
+   > 个人博客、我的文章、生活相关、资料整理等，会慢慢完善。
 
 2. RadioW ·无线电网站
 
