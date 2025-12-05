@@ -30,6 +30,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-AiT0T-black?logo=github)](https://github.com/AiT0T)
 
 <!-- 如果你有其它平台，可以按需要添加，例如： -->
-[![Bilibili](https://img.shields.io/badge/Bilibili-谁叫俺是蒋子谦-pink)](https://space.bilibili.com/320316018?spm_id_from=333.1007.0.0)
+[![Bilibili](https://img.shields.io/badge/build-%E8%B0%81%E5%8F%AB%E4%BF%BA%E6%98%AF%E8%92%8B%E5%AD%90%E8%B0%A6-blue?style=flat&logo=bilibili&logoColor=%2300A1D6&label=bilibili)](https://space.bilibili.com/320316018?spm_id_from=333.1007.0.0)
 [![小红书](https://img.shields.io/badge/build-%E6%9D%A5%E7%93%B6%E5%8F%AF%E4%B9%90-brightgreen?style=flat&logo=xiaohongshu&logoColor=%23FF2442&label=%E5%B0%8F%E7%BA%A2%E4%B9%A6
 )](https://www.xiaohongshu.com/user/profile/5a3b0dd94eacab7ef5148a4e)
