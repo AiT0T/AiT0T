@@ -32,4 +32,4 @@
 
 <!-- 如果你有其它平台，可以按需要添加，例如： -->
 [![Bilibili](https://img.shields.io/badge/Bilibili-哔哩哔哩-pink)](https://space.bilibili.com/你的UID)
-[![Zhihu](https://img.shields.io/badge/知乎-BA8AKA-informational)](https://www.zhihu.com/people/你的ID)
+[![小红书](https://img.shields.io/badge/小红书-来瓶可乐-informational)](https://www.xiaohongshu.com/user/profile/5a3b0dd94eacab7ef5148a4e)
