@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-我是子谦，正在学习全栈开发（Next.js / TypeScript / Tailwind CSS），  
-也是一名业余无线电爱好者（BA8AKA）。
+我是子谦，正在学习全栈开发（Next.js / TypeScript / Tailwind CSS）  
+也是一名业余无线电爱好者（BA8AKA）
 
-平时喜欢折腾网络、服务器、相机，也在慢慢把自己的生活和兴趣放到代码里。
+平时喜欢折腾网络、服务器、相机，也在慢慢把自己的生活和兴趣放到代码里
 
 ---
 
